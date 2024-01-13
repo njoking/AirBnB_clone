@@ -1,0 +1,18 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v165)
+"   /root/AirBnB_clone/tests/test_models
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+test_engine/
+README.md
+test_amenity.py
+test_base_model.py
+test_city.py
+test_place.py
+test_review.py
+test_state.py
+test_user.py
